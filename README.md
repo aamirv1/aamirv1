@@ -25,5 +25,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aamirv1&label=Profile+Views&style=flat-square&color=1DA1F2)
 
-<h3 align="left">Profile Summary:</h3>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamirv1&theme=github_dark)
