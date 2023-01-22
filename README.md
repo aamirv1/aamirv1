@@ -27,3 +27,5 @@
 <h3 align="left">Profile Summary:</h3><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamirv1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aamirv1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aamirv1&theme=github_dark&utcOffset=8)
