@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **golang**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/aamirv1](https://bit.ly/aamirv1)
+- 👨‍💻 All of my projects are available at [https://aamirv1.in](https://aamirv1.in)
 
 - 💬 Ask me about **react,javascript**
 
