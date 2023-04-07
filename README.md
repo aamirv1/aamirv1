@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aamirv1.in](https://aamirv1.in)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,javascript, golang**
 
 - 📫 How to reach me **hi@aamirv1.in**
 
