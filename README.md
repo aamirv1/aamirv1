@@ -11,12 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aamirv1" height="30" width="40" /></a>
-<a href="https://dev.to/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aamirv1" height="30" width="40" /></a>
 <a href="https://twitter.com/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aamirv1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamirv1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15247281/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15247281/aamirv1" height="30" width="40" /></a>
-<a href="https://medium.com/@aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aamirv1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aamirv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aamirv1" height="30" width="40" /></a>
 </p>
 
