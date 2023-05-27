@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Computer Science Undergrad from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **golang**
 
-- 👨‍💻 All of my projects are available at [https://aamirv1.in](https://aamirv1.in)
+- 👨‍💻 Know more about me at [aamirv1.in](https://aamirv1.in)
 
-- 💬 Ask me about **react,javascript, golang**
+- 💬 Ask me about **NextJS, Node, GoLang,**
 
-- 📫 How to reach me **hi@aamirv1.in**
+- 📫 Reach me at **[hi@aamirv1.in](mailto:hi@aamirv1.in)** or **[@aamirv1](https://twitter.com/aamirv1)** on twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
