@@ -9,9 +9,9 @@
 
 - 💬 Always looking for ways to learn and grow, and discussing new ideas.
 
-- 👨‍💻 Know more about me at [**aamirv1.in**](https://aamirv1.in/) or [**aamir.tech**](https://aamir.tech)
+- 👨‍💻 Know more about me at [**aamir.tech**](https://aamir.tech)
 
-- 📫 Reach me at **[hi@aamirv1.in](mailto:hi@aamirv1.in)** or **[@aamirv1](https://aamir.tech/socials/twitter)** on twitter
+- 📫 Reach me at **[hi@aamir.tech](mailto:hi@aamir.tech)** or **[@aamirv1](https://aamir.tech/socials/twitter)** on twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
