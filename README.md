@@ -1,22 +1,21 @@
-# Hey there, I'm Aamir
+# hey, i'm aamir
 
-### About me:
+ai & systems engineer. i design and build ai products end to end: the agents, the systems
+behind them, and the experience people use.
 
-I am a backend developer with a passion for building scalable, efficient, and secure solutions. My work focuses on designing clean architectures, optimizing data models, and creating robust APIs that power impactful applications. I enjoy solving complex problems, improving system performance, and collaborating with teams to deliver meaningful software. Always eager to learn and grow, I strive to stay current with emerging tools and best practices in backend development.
+my focus is the hard part of applied ai: taking agents from a working demo to production
+systems that are reliable, fast and cost-efficient for real users.
 
-👨‍💻 Know more about me at [**aamir.tech**](https://aamir.tech)
+**currently:** early engineer at [HeyLevo](https://heylevo.com), an ai platform that builds
+websites and runs crm, events and trackers for teams. i build its agent systems from
+architecture to production, across openai, claude, gemini and open-source models.
 
-### Tech Stack:
+**previously:** built backend systems and infrastructure for saas products at The Internet
+Folks, and before that delivered full products for clients across education, healthcare,
+e-commerce and hospitality. different domains, same standard: clean architecture, systems
+built to scale, and software that ships and stays up.
 
-![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun)
-![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+beyond code, i work on product and growth: what to build, who it's for and how it reaches them.
 
-### Connect with me:
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@aamir.tech)    [![Twitter](https://img.shields.io/badge/(formerly%20Twitter)-000?style=for-the-badge&logo=X)](https://go.aamir.tech/twitter)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://go.aamir.tech/linkedin)    [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://go.aamir.tech/youtube)
+i write about ai agents, new tech and shipping products on [x](https://x.com/aamirv1) and
+[linkedin](https://www.linkedin.com/in/aamirv1/) · [aamirv1.com](https://aamirv1.com)
