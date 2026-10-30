@@ -6,9 +6,11 @@ behind them, and the experience people use.
 my focus is the hard part of applied ai: taking agents from a working demo to production
 systems that are reliable, fast and cost-efficient for real users.
 
-**currently:** early engineer at [HeyLevo](https://heylevo.com), an ai platform that builds
-websites and runs crm, events and trackers for teams. i build its agent systems from
-architecture to production, across openai, claude, gemini and open-source models.
+**currently:** early engineer at [HeyLevo](https://heylevo.com), one ai platform for websites,
+crm, events and trackers. i've built the product end to end: agentic websites that adapt to
+each visitor, an ai chat that answers visitors and captures leads, an ai crm you can run by
+voice, a card scanner that sends the first email, an ai cms, and the event and tracker tools
+teams run on.
 
 **previously:** built backend systems and infrastructure for saas products at The Internet
 Folks, and before that delivered full products for clients across education, healthcare,
